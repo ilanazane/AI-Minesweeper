@@ -1,5 +1,5 @@
 # Minesweeper
-### Code by: Rakshaa Ravishankar, Ilana Zane, and William Bidle
+### Code by: Ilana Zane, Rakshaa Ravishankar and William Bidle
 
 -Each algorithm as well as the methods are located in the Minesweeper Folder
 
