@@ -7,4 +7,4 @@
 
 -Video files have been submitted on Canvas as supplements to our analysis
 
-![image description] https://github.com/ilanazane/AI-Minesweeper/blob/master/MS.png
+![image description] https://github.com/ilanazane/AI-Minesweeper/blob/master/Minesweeper/MS.png
